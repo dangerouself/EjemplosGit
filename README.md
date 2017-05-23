@@ -1,2 +1,0 @@
-# EjemplosGit
-Prueba de Funcionalidad
